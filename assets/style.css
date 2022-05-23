@@ -7,14 +7,14 @@ body{
 
 h1 {  
     font-size: 50px;
-    color: green;
+    color: rgb(128, 119, 0);
 }
 
 
 
 .rcorners {
     border-radius: 100px;
-  background: whitesmoke;
+  background: rgb(14, 66, 177);
   padding: 45px;
   width: 500px;
   height: 500px;
