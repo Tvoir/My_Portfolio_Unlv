@@ -1,8 +1,26 @@
 body{
     Background:rgba(0, 255, 255, 0.165);
+    margin: 0;
+    height: 100vh;
+    cursor: cell;
 }
 
-h1 {
-        color: green;
+h1 {  
+    font-size: 50px;
+    color: green;
 }
 
+
+
+.rcorners {
+    border-radius: 100px;
+  background: whitesmoke;
+  padding: 45px;
+  width: 500px;
+  height: 500px;
+}
+
+
+#center {
+    text-align: center;
+}
